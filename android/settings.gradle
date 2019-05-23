@@ -1,0 +1,3 @@
+rootProject.name = 'dltools_3739'
+
+include ':app'
